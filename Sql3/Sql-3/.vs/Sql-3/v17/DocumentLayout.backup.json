@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|c:\\users\\anton\\desktop\\bor\\wpf\\sql3\\sql-3\\pages\\autorisationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|c:\\users\\anton\\desktop\\bor\\wpf\\sql3\\sql-3\\pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|solutionrelative:pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\pages\\autorisationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|solutionrelative:pages\\autorisationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|c:\\users\\anton\\desktop\\bor\\wpf\\sql3\\sql-3\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|solutionrelative:pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,11 +19,7 @@
       "RelativeMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|solutionrelative:pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|c:\\users\\anton\\desktop\\bor\\wpf\\sql3\\sql-3\\pages\\lkpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\pages\\lkpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|solutionrelative:pages\\lkpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,7 +35,7 @@
       "RelativeMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|solutionrelative:pages\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|c:\\users\\anton\\desktop\\bor\\wpf\\sql3\\sql-3\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|solutionrelative:pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -43,7 +43,7 @@
       "RelativeMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|solutionrelative:pages\\autorisationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|c:\\users\\anton\\desktop\\bor\\wpf\\sql3\\sql-3\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A1166E3D-E640-49DD-AD30-B3D6B2B1A9BC}|Sql-3.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 202,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -73,8 +73,7 @@
               "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\Pages\\AutorisationPage.xaml",
               "RelativeToolTip": "Pages\\AutorisationPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-03T04:52:54.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T04:52:54.57Z"
             },
             {
               "$type": "Document",
@@ -86,17 +85,16 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAUwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T04:05:50.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T04:05:50.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AdminPage.xaml",
               "DocumentMoniker": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\Pages\\AdminPage.xaml",
               "RelativeDocumentMoniker": "Pages\\AdminPage.xaml",
-              "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\Pages\\AdminPage.xaml*",
-              "RelativeToolTip": "Pages\\AdminPage.xaml*",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\Pages\\AdminPage.xaml",
+              "RelativeToolTip": "Pages\\AdminPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-03T04:51:02.075Z",
               "EditorCaption": ""
@@ -111,12 +109,11 @@
               "RelativeToolTip": "Pages\\LKPage.xaml.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAUwB4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T14:15:58.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T14:15:58.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\User.cs",
               "RelativeDocumentMoniker": "User.cs",
@@ -124,34 +121,31 @@
               "RelativeToolTip": "User.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T12:46:09.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T12:46:09.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pages\\AdminPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\Pages\\AdminPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AdminPage.xaml.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\Pages\\AdminPage.xaml.cs",
+              "RelativeToolTip": "Pages\\AdminPage.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:44:43.374Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Pages\\AdminPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\Pages\\AdminPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\AdminPage.xaml.cs",
-              "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\Pages\\AdminPage.xaml.cs*",
-              "RelativeToolTip": "Pages\\AdminPage.xaml.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBoAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T14:44:43.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Pages\\AutorisationPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\Pages\\AutorisationPage.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\AutorisationPage.xaml.cs",
-              "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\Pages\\AutorisationPage.xaml.cs*",
-              "RelativeToolTip": "Pages\\AutorisationPage.xaml.cs*",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwDYAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\Pages\\AutorisationPage.xaml.cs",
+              "RelativeToolTip": "Pages\\AutorisationPage.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T13:46:15.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T13:46:15.904Z"
             },
             {
               "$type": "Document",
@@ -162,8 +156,7 @@
               "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\Pages\\LKPage.xaml",
               "RelativeToolTip": "Pages\\LKPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-03T04:53:05.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T04:53:05.776Z"
             },
             {
               "$type": "Document",
@@ -175,8 +168,7 @@
               "RelativeToolTip": "Pages\\RegisterPage.xaml.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAmwEYAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T04:59:37.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T04:59:37.385Z"
             },
             {
               "$type": "Document",
@@ -188,8 +180,7 @@
               "RelativeToolTip": "packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-05T14:01:49.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T14:01:49.978Z"
             },
             {
               "$type": "Document",
@@ -212,8 +203,7 @@
               "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\Pages\\RegisterPage.xaml",
               "RelativeToolTip": "Pages\\RegisterPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-03T04:53:15.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T04:53:15.067Z"
             },
             {
               "$type": "Document",
@@ -224,8 +214,7 @@
               "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Sql3\\Sql-3\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-03T04:05:55.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T04:05:55.056Z"
             }
           ]
         }
