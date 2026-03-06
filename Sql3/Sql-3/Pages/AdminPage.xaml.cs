@@ -30,7 +30,36 @@ namespace Sql_3.Pages
         private void ExitClick(object sender, RoutedEventArgs e)
         {
             NavigationService.Navigate(new AutorisationPage());
+        }
 
+        private void BtnEdit_Click(object sender, RoutedEventArgs e)
+        {
+
+            Button button = sender as Button;
+            User user = button.DataContext as User;
+            if (user == null)
+            {
+                return;
+            }
+            try
+            {
+                //user.admin==true? false : true;
+                if (user.admin)
+                {
+                    user.admin = false;
+                }
+                else
+                {
+                    user.admin=true;
+                }
+
+                    DB.Context.SaveChanges();
+                DGrid.ItemsSource = DB.Context.User.ToList();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Ошибка {ex.Message}");
+            }
         }
     }
 }

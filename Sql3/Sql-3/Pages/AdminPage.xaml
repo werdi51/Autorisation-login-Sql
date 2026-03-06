@@ -32,7 +32,14 @@
                 <DataGridTextColumn Header="Логин" Binding="{Binding login}" Width="*"/>
                 <DataGridTextColumn Header="Парль" Binding="{Binding password}" Width="*"/>
                 <DataGridTextColumn Header="Роль" Binding="{Binding TotalRole}" Width="*"/>
+                <DataGridTemplateColumn Width="auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Редактировать статус" Name="BtnEdit" Click="BtnEdit_Click"/>
 
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
                 <DataGridTemplateColumn Width="auto">
                 </DataGridTemplateColumn>
             </DataGrid.Columns>
